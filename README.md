@@ -1,3 +1,3 @@
 # Matplotlib-Seaborn
 
-Showcasing projects related to data visualization with Python
+Repository of projects related to data visualization with Python
